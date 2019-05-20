@@ -5,13 +5,13 @@ Lista de posibles proyectos de cooperación entre Greencore e Isla del Coco
 
 - Chispas con GPS, supercap, carga inductiva, epoxy: Para reducir contaminación por baterías, y mejorar la seguridad de barcos atracados
 
-- Antena wifi direccional: Para aumentar considerablemente las capacidades de redes y transmición de video a los barcos, por razones de seguridad.
+- Antena wifi direccional: Para aumentar considerablemente las capacidades de redes y transmición de video a los barcos, por razones de seguridad. Basado en [ArduPilot Antenna Tracker](http://ardupilot.org/copter/docs/common-antenna-tracking.html) y basado en [impresión 3D](https://www.thingiverse.com/thing:1038005)
 
-- Cámaras térmicas en drone para chanchos y venados
+- [Cámaras térmicas](https://www.amazon.com/FLIR-0100-01-00S-Sensor-Thermal-Camera/dp/B01MU9RLXO/) en drone para chanchos y venados
 
-- Mapas de la Isla en 3d, con Opendronemaps. Mapas multiespectrales para observar absorción de CO2
+- Mapas de la Isla en 3d, con Opendronemaps. [Mapas multiespectrales](https://www.mapir.camera/pages/survey3-cameras) para observar absorción de CO2
 
-- OpenROV: Crear proyecto de tipo Explorer en NatGeo y solicitar OpenROV
+- OpenROV: Crear proyecto de tipo [OpenExplorer en NatGeo](https://www.nationalgeographicpartners.com/press/2018/10/see-initiative-drones-explore-ocean/) y [solicitar OpenROV](https://airtable.com/shrnBKrgMrNZp9I89)
 
 - Grabación 24/7 de hidrófonos: Para exploración de cetáceos, ruido ambiental, detección de barcos.
 
