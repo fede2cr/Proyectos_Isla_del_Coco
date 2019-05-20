@@ -13,6 +13,8 @@ Lista de posibles proyectos de cooperación entre Greencore e Isla del Coco
 
 - OpenROV: Crear proyecto de tipo Explorer en NatGeo y solicitar OpenROV
 
+- Grabación 24/7 de hidrófonos: Para exploración de cetáceos, ruido ambiental, detección de barcos.
+
 - Investigar tracking de tiburones
 
 - Intestivar repelentes de tiburones.
