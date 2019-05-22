@@ -29,3 +29,5 @@ Lista de posibles proyectos de cooperación entre Greencore e Isla del Coco
 - Trampas de ratas IoT
 
 - Búsqueda de boyas satelitales: Crear antena direccional en conjunto con Club de Radio, donde se espera escuchar emisiones de radio-frecuencia de las antenas direccionales de equipo satelital, para lo que se necesitan antenas direccionales de altísima ganancia.
+
+- Indentificar especie e individuo en pájaros anillados: Utilizar tecnologías de visión computarizada como [Pixy Cam](https://www.youtube.com/watch?v=J8sl3nMlYxM&t=4m) para realizar clasificación en tiempo real.
