@@ -31,3 +31,5 @@ Lista de posibles proyectos de cooperación entre Greencore e Isla del Coco
 - Búsqueda de boyas satelitales: Crear antena direccional en conjunto con Club de Radio, donde se espera escuchar emisiones de radio-frecuencia de las antenas direccionales de equipo satelital, para lo que se necesitan antenas direccionales de altísima ganancia.
 
 - Indentificar especie e individuo en pájaros anillados: Utilizar tecnologías de visión computarizada como [Pixy Cam](https://www.youtube.com/watch?v=J8sl3nMlYxM&t=4m) para realizar clasificación en tiempo real.
+
+- Iniciar recicladora de nylon: Replicar los esfuerzos de [Fishy filaments](https://fishyfilaments.com/), donde reciclan líneas de pesca que se recogen en las playas, en filamentos aptos para impresora 3D. Las ventas de filamentos se pueden utilizar para dotar de recursos a los Guardaparques, así como se les pueden entrenar en diseño e impresión 3d para que puedan crear herramientas necesarias en la Isla, de forma similar a como se está experimentando en la [ISS](https://www.nasa.gov/content/international-space-station-s-3-d-printer/).
