@@ -13,7 +13,7 @@ Lista de posibles proyectos de cooperación entre Greencore e Isla del Coco
 
 - OpenROV: Crear proyecto de tipo [OpenExplorer en NatGeo](https://www.nationalgeographicpartners.com/press/2018/10/see-initiative-drones-explore-ocean/) y [solicitar OpenROV](https://airtable.com/shrnBKrgMrNZp9I89)
 
-- Grabación 24/7 de hidrófonos: Para exploración de cetáceos, ruido ambiental, detección de barcos.
+- Grabación 24/7 de hidrófonos: Para exploración de cetáceos, ruido ambiental, detección de barcos. Solicitar por medio de FAICO una [donación de equipo de $5000](https://www.wildlifeacoustics.com/resources/grant/deadlines) donde se incluya al menos un [grabador con hidrófono](https://www.wildlifeacoustics.com/store/recorders), e idealmente alcanzaría para grabadores para canto de pájaros, y para actividad de murciélagos. La fecha limite para aplicar para la siguiente donación es en [Agosto](https://www.wildlifeacoustics.com/resources/grant/deadlines)
 
 - Investigar tracking de tiburones
 
