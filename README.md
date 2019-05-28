@@ -5,7 +5,7 @@ Lista de posibles proyectos de cooperación entre Greencore e Isla del Coco
 
 - Chispas con GPS, supercap, carga inductiva, epoxy: Para reducir contaminación por baterías, y mejorar la seguridad de barcos atracados
 
-- Antena wifi direccional: Para aumentar considerablemente las capacidades de redes y transmición de video a los barcos, por razones de seguridad. Basado en [ArduPilot Antenna Tracker](http://ardupilot.org/copter/docs/common-antenna-tracking.html) y basado en [impresión 3D](https://www.thingiverse.com/thing:1038005). La librería necesaria para poder transmitir video sobre Wifi a largas distancias es [ESP-NOW-TX-RX](https://github.com/leonyuhanov/ESP-NOW-TX-RX)
+- Antena wifi direccional: Para aumentar considerablemente las capacidades de redes y transmición de video a los barcos, por razones de seguridad. Basado en [ArduPilot Antenna Tracker](http://ardupilot.org/copter/docs/common-antenna-tracking.html) y basado en [impresión 3D](https://www.thingiverse.com/thing:1038005). La librería necesaria para poder transmitir video sobre Wifi a largas distancias es [esp32-80211-tx](https://github.com/Jeija/esp32-80211-tx)
 
 - [Cámaras térmicas](https://www.amazon.com/FLIR-0100-01-00S-Sensor-Thermal-Camera/dp/B01MU9RLXO/) en drone para chanchos y venados
 
