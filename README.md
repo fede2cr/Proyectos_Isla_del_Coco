@@ -1,7 +1,9 @@
 # Proyectos_Isla_del_Coco
 Lista de posibles proyectos de cooperación entre Greencore e Isla del Coco
 
-- Untangle para balanceo, failover 2 enlaces, ~20 usuarios
+- Mejora de enlaces de Internet: Proxy Caché con Untangle, con balanceo y failover de 2 enlaces satelitales, ~20 usuarios
+
+- Mejora de enlaces de Internet: Se está solicitando colaboración con el proyecto [Starlink de SpaceX](https://www.spacex.com/about), solicitando enlaces satelitales con mejor disponiblidad y ancho de banda a los actuales, así como ofreciendo colaboración a las fases de prueba del proyecto.
 
 - Chispas con GPS, supercap, carga inductiva, epoxy: Para reducir contaminación por baterías, y mejorar la seguridad de barcos atracados
 
