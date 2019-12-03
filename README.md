@@ -14,7 +14,7 @@ Lista de posibles proyectos de cooperación entre Greencore e Isla del Coco
 
 - Mejora de enlaces de Internet: Proxy Caché con Untangle, con balanceo y failover de 2 enlaces satelitales, ~20 usuarios
 
-- Grabación 24/7 de hidrófonos: Para exploración de cetáceos, ruido ambiental, detección de barcos. Solicitar por medio de FAICO una [donación de equipo de $5000](https://www.wildlifeacoustics.com/resources/grant/deadlines) donde se incluya al menos un [grabador con hidrófono](https://www.wildlifeacoustics.com/store/recorders), e idealmente alcanzaría para grabadores para canto de pájaros, y para actividad de murciélagos. La fecha limite para aplicar para la siguiente donación es en [Agosto](https://www.wildlifeacoustics.com/resources/grant/deadlines)
+- Grabación 24/7 de hidrófonos: Para exploración de cetáceos, ruido ambiental, detección de barcos. Solicitar por medio de FAICO una [donación de equipo de $5000](https://www.wildlifeacoustics.com/resources/grant/deadlines) donde se incluya al menos un [grabador con hidrófono](https://www.wildlifeacoustics.com/store/recorders), e idealmente alcanzaría para grabadores para canto de pájaros, y para actividad de murciélagos. La fecha limite para aplicar para la siguiente donación es en [Febrero 2020](https://www.wildlifeacoustics.com/resources/grant/deadlines)
 
 - Mejora de enlaces de Internet: Se está solicitando colaboración con el proyecto [Starlink de SpaceX](https://www.spacex.com/about), solicitando enlaces satelitales con mejor disponiblidad y ancho de banda a los actuales, así como ofreciendo colaboración a las fases de prueba del proyecto.
 
